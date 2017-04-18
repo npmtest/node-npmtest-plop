@@ -1,7 +1,10 @@
-# test coverage for  [plop (v1.7.4)](https://github.com/amwmedia/plop)  [![npm package](https://img.shields.io/npm/v/npmtest-plop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-plop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-plop.svg)](https://travis-ci.org/npmtest/node-npmtest-plop)
+# npmtest-plop
+
+#### test coverage for  [plop (v1.7.4)](https://github.com/amwmedia/plop)  [![npm package](https://img.shields.io/npm/v/npmtest-plop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-plop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-plop.svg)](https://travis-ci.org/npmtest/node-npmtest-plop)
+
 #### Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity
 
-[![NPM](https://nodei.co/npm/plop.png?downloads=true)](https://www.npmjs.com/package/plop)
+[![NPM](https://nodei.co/npm/plop.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/plop)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-plop/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-plop/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-plop/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-plop/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-plop/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-plop/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-plop/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-plop/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-plop/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-plop/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-plop%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-plop/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-plop/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-plop/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-plop/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-plop%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-plop/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-plop/build/test-report.html](https://npmtest.github.io/node-npmtest-plop/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-plop/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-plop/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-plop/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-plop/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-plop/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-plop/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-plop/build/screenCapture.npmPackageListing.svg)
 
@@ -28,7 +37,6 @@
 {
     "author": {
         "name": "Andrew Worcester",
-        "email": "andrew@amwmedia.com",
         "url": "http://amwmedia.com"
     },
     "bin": {
@@ -74,14 +82,12 @@
     "main": "./src/plop.js",
     "maintainers": [
         {
-            "name": "amwmedia",
-            "email": "andrew@amwmedia.com"
+            "name": "amwmedia"
         }
     ],
     "name": "plop",
     "optionalDependencies": {},
     "preferGlobal": "true",
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/amwmedia/plop.git"
