@@ -1,6 +1,6 @@
 # npmtest-plop
 
-#### test coverage for  [plop (v1.7.4)](https://github.com/amwmedia/plop)  [![npm package](https://img.shields.io/npm/v/npmtest-plop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-plop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-plop.svg)](https://travis-ci.org/npmtest/node-npmtest-plop)
+#### basic test coverage for  [plop (v1.7.4)](https://github.com/amwmedia/plop)  [![npm package](https://img.shields.io/npm/v/npmtest-plop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-plop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-plop.svg)](https://travis-ci.org/npmtest/node-npmtest-plop)
 
 #### Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-plop/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-plop/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-plop/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-plop/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-plop/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-plop/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-plop/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-plop/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-plop/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-plop/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-plop/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-plop/build/coverage.html/index.html)
 
